@@ -1,0 +1,35 @@
+:root {
+    --color: rgb(255, 0, 0);
+    --textcolor: white ;
+    --fondo: white ;
+    
+}
+
+
+body{
+    background-color: var(--fondo) !important;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #dddddd;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: var(--color);
+    border-radius: 20px;
+}
+
+.neu{
+    background-color: var(--color) !important;
+    color: var(--textcolor) !important;
+}
+
+
+.neu a{
+    background-color: var(--color) !important;
+    color: var(--textcolor) !important;
+}
