@@ -20,9 +20,9 @@ In this project, an artificial intelligence technology is tested that selects th
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Default Light Background | ![#FFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFF |
-| Default Dark Background | ![#24263b](https://via.placeholder.com/10/24263b?text=+) #24263b |
-| Default Color | ![#FF0000](https://via.placeholder.com/10/FF0000?text=+) #FF0000 |
+| Default Light Background | ![#FFF](https://via.placeholder.com/15/FFF/FFF.png) `#FFF` | 
+| Default Dark Background | ![#24263b](https://via.placeholder.com/15/24263b/24263b.png) `#24263b` |
+| Default Color |  ![#FF0000](https://via.placeholder.com/15/FF0000/FF0000.png) `#FF0000`|
 
 
 ## Author
