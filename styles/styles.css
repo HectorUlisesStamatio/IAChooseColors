@@ -1,3 +1,4 @@
+/*Css global colors*/
 :root {
     --color: rgb(255, 0, 0);
     --textcolor: white ;
@@ -10,6 +11,7 @@ body{
     background-color: var(--fondo) !important;
 }
 
+/*Customize the scrollbar*/
 ::-webkit-scrollbar {
     width: 10px;
 }
@@ -22,6 +24,7 @@ body{
     background-color: var(--color);
     border-radius: 20px;
 }
+/*End Customize the scrollbar*/
 
 .neu{
     background-color: var(--color) !important;
